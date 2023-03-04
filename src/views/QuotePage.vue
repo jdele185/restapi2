@@ -1,5 +1,6 @@
 <script setup>
 import { ref } from 'vue'
+
 const title = ref('Quotes From the Beyond ✋')
 
 </script>
